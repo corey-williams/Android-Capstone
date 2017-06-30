@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RadioButton
+        android:id="@+id/radioSpecialArmour"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:checked="true"
+        android:text="Armour" />
+
+    <RadioButton
+        android:id="@+id/radioSpecialWeapons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/radioSpecialArmour"
+        android:text="Weapons" />
+
+    <ListView
+        android:id="@+id/specialArmourList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/radioSpecialArmour" >
+    </ListView>
+
+    <ListView
+        android:id="@+id/specialWeaponsList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/specialArmourList"
+        android:visibility="invisible" >
+
+    </ListView>
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/radioSpecialArmour"
+        android:visibility="invisible" >
+
+    </ListView>
+
+</RelativeLayout>
+<!-- From: file:/Users/Corey/Dropbox/Android%20Apps/Dawn%20of%20Ages/res/layout/fragment_special.xml -->

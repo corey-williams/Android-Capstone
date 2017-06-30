@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RadioButton
+        android:id="@+id/radioMeleeArmour"
+        android:checked="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="Armour" />
+
+    <RadioButton
+        android:id="@+id/radioMeleeWeapons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/radioMeleeArmour"
+        android:text="Weapons" />
+
+    <ListView
+        android:id="@+id/meleeArmourList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/shopGoldValue1"
+        android:visibility="visible" >
+    </ListView>
+
+    <ListView
+        android:id="@+id/meleeWeaponsList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/shopGoldValue1"
+        android:visibility="gone" >
+
+    </ListView>
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:visibility="gone" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/textQuest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/radioMeleeArmour"
+        android:text="Gold: " />
+
+    <TextView
+        android:id="@+id/shopGoldValue1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textQuest"
+        android:layout_alignBottom="@+id/textQuest"
+        android:layout_toRightOf="@+id/textQuest"
+        android:text="TextView" />
+
+    <RadioButton
+        android:id="@+id/radioMeleeSpells"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/radioMeleeWeapons"
+        android:text="Spells" />
+
+</RelativeLayout>

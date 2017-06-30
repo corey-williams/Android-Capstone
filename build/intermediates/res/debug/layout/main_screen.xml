@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1_mainscreen"
+    android:orientation="vertical"
+    android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+
+    <TextView
+        android:id="@+id/textQuest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Dawn of Ages"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:typeface="normal" />
+
+    <Button
+        android:id="@+id/CreditsScreen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="Credits" />
+
+    <Button
+        android:id="@+id/HTPScreen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/CreditsScreen"
+        android:layout_alignParentLeft="true"
+        android:text="About" />
+
+    <Button
+        android:id="@+id/StoryScreen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/HTPScreen"
+        android:layout_alignParentLeft="true"
+        android:text="Story" />
+
+    <Button
+        android:id="@+id/PlayScreen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/StoryScreen"
+        android:layout_alignParentLeft="true"
+        android:text="Play" />
+
+
+</RelativeLayout><!-- From: file:/Users/Corey/Dropbox/Android%20Apps/Dawn%20of%20Ages/res/layout/main_screen.xml -->

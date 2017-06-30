@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+            android:id="@+id/ChangeLog"
+            android:orderInCategory="1"
+            android:showAsAction="always"
+            android:title="Log"/>
+</menu><!-- From: file:/Users/Corey/Dropbox/Android%20Apps/Dawn%20of%20Ages/res/menu/changelog.xml -->

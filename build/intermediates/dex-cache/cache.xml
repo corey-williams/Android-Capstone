@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/build/intermediates/pre-dexed/debug/android-support-v4-0b6d42166a3ce7634fda44d19a98aa141157a820.jar" />
+    </item>
+
+</items>

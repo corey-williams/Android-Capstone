@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/createnew" >
+
+
+    <TextView
+        android:id="@+id/shopGoldValue1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="54dp"
+        android:text="|"
+        android:visibility="invisible" />
+
+
+
+    <TextView
+        android:id="@+id/textQuest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/shopGoldValue1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:text="Your adventure awaits . . ."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btnCreateNew"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textQuest"
+        android:layout_marginTop="27dp"
+        android:layout_toLeftOf="@+id/shopGoldValue1"
+        android:text="Create new" />
+
+
+
+
+    <Button
+        android:id="@+id/btnContinue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btnCreateNew"
+        android:layout_alignBottom="@+id/btnCreateNew"
+        android:layout_alignRight="@+id/textQuest"
+        android:layout_toRightOf="@+id/btnCreateNew"
+        android:text="Continue" />
+
+
+</RelativeLayout><!-- From: file:/Users/Corey/Dropbox/Android%20Apps/Dawn%20of%20Ages/res/layout/before_you_begin.xml -->

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Corey/Dropbox/Android%20Apps/Dawn%20of%20Ages/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="Alignment">
+        <item>Life</item>    
+        <item>Chaos</item>  
+        <item>Shadows</item> 
+        <item>Death</item>   
+        <item>Souls</item>   
+    </string-array>
+    <string-array name="Armour">
+        <item>Melee</item>
+    </string-array>
+    <string-array name="Classes">
+        <item>Warrior</item> 
+        <item>Cleric</item>
+        <item>Druid</item> 
+        <item>Sorcerer</item>   
+        <item>Monk</item>    
+        <item>Paladin</item> 
+        <item>Ranger</item>  
+        <item>Rouge</item>   
+        <item>Warlock</item>
+        <item>Bard</item>    
+    </string-array>
+    <string-array name="Crafting">
+        <item>Misc</item>
+        <item>Amulets</item>
+        <item>Rings</item>
+    </string-array>
+    <string-array name="MeleeArmour">
+        <item>(725G) Bronze Armour Set</item>
+        <item>(100G) Bronze Helmet</item>
+        <item>(250G) Bronze Chestplate</item>
+        <item>(150G) Bronze Gauntlets</item>
+        <item>(125G) Bronze Platelegs</item>
+        <item>(100G) Bronze Boots</item>
+    </string-array>
+    <string-array name="Monsters">
+        <item>(0) Training Dummy</item>
+        <item>(2) Cockroach</item>
+        <item>(3) Diseased Rat</item>
+        <item>(5) Black Widdow</item>
+        <item>(7) Goblin</item>
+        <item>(9) Undead Troll</item>
+        <item>(13) Giant</item>
+        <item>(17) Young Blue Drake</item>
+        <item>(21) Hobgoblin</item>
+        <item>(23) Skeleton</item>
+        <item>(26) Seer</item>
+        <item>(30) Homunculus</item>
+        <item>(35) Golem</item>
+        <item>(42) Basilisk</item>
+        <item>(49) Elemental</item>
+        <item>(54) Grick</item>
+        <item>(62) Harpy</item>
+        <item>(77) Chuul</item>
+        <item>(85) Blue Dragon</item>
+        <item>(93) Minotaur</item>
+        <item>(100) Nightwalker</item>
+        <item>(113) Grimlock</item>
+        <item>(126) Blood Raven</item>
+        <item>(144) Doppleganger</item>
+        <item>(161) Mystfire Wolf</item>
+        <item>(180) Gargoyle</item>
+        <item>(200) Sphinx</item>
+        <item>(217) Devourer</item>
+        <item>(233) Green Dragon</item>
+        <item>(259) Ettin</item>
+        <item>(272) Sorrowsworn</item>
+        <item>(291) Marut</item>
+        <item>(304) Choker</item>
+        <item>(321) Bone Eater</item>
+        <item>(338) Oricorus</item>
+        <item>(350) Harbringer</item>
+        <item>(366) Vampire Spawn</item>
+        <item>(382) Oni</item>
+        <item>(407) Shade</item>
+        <item>(420) Flawed Seer</item>
+        <item>(449) Dark Imp</item>
+        <item>(470) Hydra</item>
+        <item>(488) Aboleth</item>
+        <item>(500) Succubus </item>
+    </string-array>
+    <string-array name="Potions">
+        <item>Potions</item>
+        <item>Health</item>
+        <item>Mana</item>
+    </string-array>
+    <string-array name="Races">
+        <item>Human</item>  
+        <item>Dwarf</item>   
+        <item>Elf</item>     
+        <item>Half Elf</item>
+        <item>Eladrin</item> 
+        <item>Dragonborn</item>
+        <item>Gnome</item>   
+        <item>Orc</item>     
+        <item>Half Orc</item>
+        <item>Tiefling</item>
+        <item>Halfling</item>
+    </string-array>
+    <string-array name="RacesInfo">
+        <item>Human</item>
+        <item>Dwarf</item>   
+        <item>Elf</item>    
+        <item>High Elf</item>
+        <item>Half Elf</item>
+        <item>Dark Elf</item>
+        <item>Eladrin</item> 
+        <item>Dragonborn</item>
+        <item>Gnome</item>  
+        <item>Orc</item>     
+        <item>Half Orc</item>
+        <item>Tiefling</item>
+        <item>Halfling</item>
+    </string-array>
+    <string-array name="Unequip">
+        <item>Head</item>
+    </string-array>
+    <string-array name="Weapons">
+        <item>Weapons</item>
+        <item>Melee</item>
+        <item>Spellcaster</item>
+        <item>Ranger</item>
+        <item>∞</item>
+    </string-array>
+    <!-- From: file:/Users/Corey/Dropbox/Android%20Apps/Dawn%20of%20Ages/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <!-- From: file:/Users/Corey/Dropbox/Android%20Apps/Dawn%20of%20Ages/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="AlignmentPrompt">Choose your alignment</string>
+    <string name="ArmourPrompt">Choose your Class</string>
+    <string name="ClassesPrompt">Choose your Class</string>
+    <string name="CraftingPrompt">Choose your Class</string>
+    <string name="CreateNew">Creating a new character!
+        Creating a new character is easy</string>
+    <string name="MonsterPrompt">Choose a monster</string>
+    <string name="PotionsPrompt">Choose your Class</string>
+    <string name="RacesPrompt">Choose your race</string>
+    <string name="WeaponsPrompt">Choose your Class</string>
+    <string name="app_name">Dawn of Ages</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Sell</string>
+    <string name="title_activity_main_screen">Dawn of Ages</string>
+    <!-- From: file:/Users/Corey/Dropbox/Android%20Apps/Dawn%20of%20Ages/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="ActionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/action_bar_background</item>
+    </style>
+    <style name="MyTheme" parent="@android:style/Theme.Holo">
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+    </style>
+</resources>

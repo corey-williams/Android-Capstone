@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res"><file name="action_bar_background" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-hdpi/action_bar_background.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="background1_mainscreen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-hdpi/background1_mainscreen.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="beforeyoubegin" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-hdpi/beforeyoubegin.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="createnew" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-hdpi/createnew.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="demon" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-hdpi/demon.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="doalogo" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-hdpi/doalogo.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="equipment_logo" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-hdpi/equipment_logo.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_search" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-hdpi/ic_action_search.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-hdpi/icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="inventory_logo" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-hdpi/inventory_logo.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="line" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-hdpi/line.png" qualifiers="hdpi-v4" type="drawable"/><file name="playscreen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-hdpi/playscreen.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="shop_logo" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-hdpi/shop_logo.png" qualifiers="hdpi-v4" type="drawable"/><file name="splash_screen_img" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-hdpi/splash_screen_img.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-ldpi/ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="playscreen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-ldpi/playscreen.jpg" qualifiers="ldpi-v4" type="drawable"/><file name="ic_action_search" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-mdpi/ic_action_search.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="playscreen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-mdpi/playscreen.jpg" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_search" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-xhdpi/ic_action_search.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="playscreen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/drawable-xhdpi/playscreen.jpg" qualifiers="xhdpi-v4" type="drawable"/><file name="before_you_begin" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/before_you_begin.xml" qualifiers="" type="layout"/><file name="class_training_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/class_training_screen.xml" qualifiers="" type="layout"/><file name="copy_of_play_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/copy_of_play_screen.xml" qualifiers="" type="layout"/><file name="copy_of_shop_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/copy_of_shop_screen.xml" qualifiers="" type="layout"/><file name="crafting_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/crafting_screen.xml" qualifiers="" type="layout"/><file name="create_new" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/create_new.xml" qualifiers="" type="layout"/><file name="credits_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/credits_screen.xml" qualifiers="" type="layout"/><file name="custom_list_view" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/custom_list_view.xml" qualifiers="" type="layout"/><file name="custom_row_view" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/custom_row_view.xml" qualifiers="" type="layout"/><file name="equipment_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/equipment_screen.xml" qualifiers="" type="layout"/><file name="fragment_amulets" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/fragment_amulets.xml" qualifiers="" type="layout"/><file name="fragment_melee" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/fragment_melee.xml" qualifiers="" type="layout"/><file name="fragment_potions" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/fragment_potions.xml" qualifiers="" type="layout"/><file name="fragment_ranged" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/fragment_ranged.xml" qualifiers="" type="layout"/><file name="fragment_rings" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/fragment_rings.xml" qualifiers="" type="layout"/><file name="fragment_special" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/fragment_special.xml" qualifiers="" type="layout"/><file name="fragment_spellcaster" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/fragment_spellcaster.xml" qualifiers="" type="layout"/><file name="htp_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/htp_screen.xml" qualifiers="" type="layout"/><file name="inventory_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/inventory_screen.xml" qualifiers="" type="layout"/><file name="main_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/main_screen.xml" qualifiers="" type="layout"/><file name="more_info" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/more_info.xml" qualifiers="" type="layout"/><file name="play_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/play_screen.xml" qualifiers="" type="layout"/><file name="quest_testquest" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/quest_testquest.xml" qualifiers="" type="layout"/><file name="quests" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/quests.xml" qualifiers="" type="layout"/><file name="row" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/row.xml" qualifiers="" type="layout"/><file name="shop_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/shop_screen.xml" qualifiers="" type="layout"/><file name="shop_sell" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/shop_sell.xml" qualifiers="" type="layout"/><file name="splash_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/splash_screen.xml" qualifiers="" type="layout"/><file name="stats_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/stats_screen.xml" qualifiers="" type="layout"/><file name="story_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/story_screen.xml" qualifiers="" type="layout"/><file name="training_dummy" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/layout/training_dummy.xml" qualifiers="" type="layout"/><file name="changelog" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/menu/changelog.xml" qualifiers="" type="menu"/><file name="gold" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/menu/gold.xml" qualifiers="" type="menu"/><file name="sendto_equipment" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/menu/sendto_equipment.xml" qualifiers="" type="menu"/><file name="sendto_inventory" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/menu/sendto_inventory.xml" qualifiers="" type="menu"/><file name="shop_screen" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/menu/shop_screen.xml" qualifiers="" type="menu"/><file name="shop_sell" path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/menu/shop_sell.xml" qualifiers="" type="menu"/><file path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/values/dimens.xml" qualifiers=""><dimen name="padding_medium">8dp</dimen><dimen name="padding_small">8dp</dimen><dimen name="padding_large">16dp</dimen></file><file path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/values/strings.xml" qualifiers=""><string name="MonsterPrompt">Choose a monster</string><string name="AlignmentPrompt">Choose your alignment</string><string-array name="Races">
+        <item>Human</item>  
+        <item>Dwarf</item>   
+        <item>Elf</item>     
+        <item>Half Elf</item>
+        <item>Eladrin</item> 
+        <item>Dragonborn</item>
+        <item>Gnome</item>   
+        <item>Orc</item>     
+        <item>Half Orc</item>
+        <item>Tiefling</item>
+        <item>Halfling</item>
+    </string-array><string-array name="Alignment">
+        <item>Life</item>    
+        <item>Chaos</item>  
+        <item>Shadows</item> 
+        <item>Death</item>   
+        <item>Souls</item>   
+    </string-array><string-array name="Crafting">
+        <item>Misc</item>
+        <item>Amulets</item>
+        <item>Rings</item>
+    </string-array><string name="ClassesPrompt">Choose your Class</string><string-array name="Weapons">
+        <item>Weapons</item>
+        <item>Melee</item>
+        <item>Spellcaster</item>
+        <item>Ranger</item>
+        <item>∞</item>
+    </string-array><string name="ArmourPrompt">Choose your Class</string><string-array name="Unequip">
+        <item>Head</item>
+    </string-array><string name="WeaponsPrompt">Choose your Class</string><string name="title_activity_main_screen">Dawn of Ages</string><string-array name="Classes">
+        <item>Warrior</item> 
+        <item>Cleric</item>
+        <item>Druid</item> 
+        <item>Sorcerer</item>   
+        <item>Monk</item>    
+        <item>Paladin</item> 
+        <item>Ranger</item>  
+        <item>Rouge</item>   
+        <item>Warlock</item>
+        <item>Bard</item>    
+    </string-array><string-array name="RacesInfo">
+        <item>Human</item>
+        <item>Dwarf</item>   
+        <item>Elf</item>    
+        <item>High Elf</item>
+        <item>Half Elf</item>
+        <item>Dark Elf</item>
+        <item>Eladrin</item> 
+        <item>Dragonborn</item>
+        <item>Gnome</item>  
+        <item>Orc</item>     
+        <item>Half Orc</item>
+        <item>Tiefling</item>
+        <item>Halfling</item>
+    </string-array><string name="CraftingPrompt">Choose your Class</string><string name="PotionsPrompt">Choose your Class</string><string name="CreateNew">Creating a new character!
+        Creating a new character is easy</string><string name="RacesPrompt">Choose your race</string><string-array name="Armour">
+        <item>Melee</item>
+    </string-array><string name="app_name">Dawn of Ages</string><string-array name="MeleeArmour">
+        <item>(725G) Bronze Armour Set</item>
+        <item>(100G) Bronze Helmet</item>
+        <item>(250G) Bronze Chestplate</item>
+        <item>(150G) Bronze Gauntlets</item>
+        <item>(125G) Bronze Platelegs</item>
+        <item>(100G) Bronze Boots</item>
+    </string-array><string-array name="Monsters">
+        <item>(0) Training Dummy</item>
+        <item>(2) Cockroach</item>
+        <item>(3) Diseased Rat</item>
+        <item>(5) Black Widdow</item>
+        <item>(7) Goblin</item>
+        <item>(9) Undead Troll</item>
+        <item>(13) Giant</item>
+        <item>(17) Young Blue Drake</item>
+        <item>(21) Hobgoblin</item>
+        <item>(23) Skeleton</item>
+        <item>(26) Seer</item>
+        <item>(30) Homunculus</item>
+        <item>(35) Golem</item>
+        <item>(42) Basilisk</item>
+        <item>(49) Elemental</item>
+        <item>(54) Grick</item>
+        <item>(62) Harpy</item>
+        <item>(77) Chuul</item>
+        <item>(85) Blue Dragon</item>
+        <item>(93) Minotaur</item>
+        <item>(100) Nightwalker</item>
+        <item>(113) Grimlock</item>
+        <item>(126) Blood Raven</item>
+        <item>(144) Doppleganger</item>
+        <item>(161) Mystfire Wolf</item>
+        <item>(180) Gargoyle</item>
+        <item>(200) Sphinx</item>
+        <item>(217) Devourer</item>
+        <item>(233) Green Dragon</item>
+        <item>(259) Ettin</item>
+        <item>(272) Sorrowsworn</item>
+        <item>(291) Marut</item>
+        <item>(304) Choker</item>
+        <item>(321) Bone Eater</item>
+        <item>(338) Oricorus</item>
+        <item>(350) Harbringer</item>
+        <item>(366) Vampire Spawn</item>
+        <item>(382) Oni</item>
+        <item>(407) Shade</item>
+        <item>(420) Flawed Seer</item>
+        <item>(449) Dark Imp</item>
+        <item>(470) Hydra</item>
+        <item>(488) Aboleth</item>
+        <item>(500) Succubus </item>
+    </string-array><string name="hello_world">Hello world!</string><string-array name="Potions">
+        <item>Potions</item>
+        <item>Health</item>
+        <item>Mana</item>
+    </string-array><string name="menu_settings">Sell</string></file><file path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/values/styles.xml" qualifiers=""><style name="ActionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/action_bar_background</item>
+    </style><style name="MyTheme" parent="@android:style/Theme.Holo">
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+    </style></file><file path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/values-large/dimens.xml" qualifiers="large-v4"><dimen name="padding_medium">16dp</dimen><dimen name="padding_large">16dp</dimen><dimen name="padding_small">8dp</dimen></file><file path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/values-v11/styles.xml" qualifiers="v11"><style name="AppTheme" parent="android:Theme.Holo.Light"/></file><file path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/res/values-v14/styles.xml" qualifiers="v14"><style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar"/></file></source><source path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/build/generated/res/rs/debug"/><source path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/Users/Corey/Dropbox/Android Apps/Dawn of Ages/build-types/debug/res"/></dataSet><mergedItems/></merger>

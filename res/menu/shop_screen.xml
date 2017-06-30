@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+            android:id="@+id/Inventory"
+            android:orderInCategory="1"
+            android:showAsAction="ifRoom"
+            android:title="Inventory"/>
+    <item
+            android:id="@+id/Equipment"
+            android:orderInCategory="2"
+            android:showAsAction="ifRoom"
+            android:title="Equipment"/>
+    <item
+        android:id="@+id/ShopSell"
+        android:orderInCategory="3"
+        android:showAsAction="ifRoom"
+        android:title="Sell"/>
+</menu>

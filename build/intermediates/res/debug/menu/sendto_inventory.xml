@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+            android:id="@+id/Shop"
+            android:orderInCategory="1"
+            android:showAsAction="ifRoom"
+            android:title="Shop"/>
+    <item
+        android:id="@+id/Inventory"
+        android:orderInCategory="2"
+        android:showAsAction="ifRoom"
+        android:title="Inventory"/>
+</menu><!-- From: file:/Users/Corey/Dropbox/Android%20Apps/Dawn%20of%20Ages/res/menu/sendto_inventory.xml -->
